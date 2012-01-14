@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2011-05-22T21:31:29.5605469-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_1.png</Source>
+      <Name>Graphics\Achievements\A_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_1.xnb</Output>
+      <Time>2011-05-15T22:20:58.696289-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_2.png</Source>
+      <Name>Graphics\Achievements\A_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_2.xnb</Output>
+      <Time>2011-05-15T22:20:58.6972656-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_3.png</Source>
+      <Name>Graphics\Achievements\A_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_3.xnb</Output>
+      <Time>2011-05-15T22:20:58.6982421-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_4.png</Source>
+      <Name>Graphics\Achievements\A_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_4.xnb</Output>
+      <Time>2011-05-15T22:20:58.6992187-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_5.png</Source>
+      <Name>Graphics\Achievements\A_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_5.xnb</Output>
+      <Time>2011-05-15T22:20:58.7011718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_6.png</Source>
+      <Name>Graphics\Achievements\A_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_6.xnb</Output>
+      <Time>2011-05-15T22:20:58.7021484-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_7.png</Source>
+      <Name>Graphics\Achievements\A_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_7.xnb</Output>
+      <Time>2011-05-15T22:20:58.703125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Achievements\A_0.png</Source>
+      <Name>Graphics\Achievements\A_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Achievements\A_0.xnb</Output>
+      <Time>2011-05-15T22:20:58.7050781-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Play0.png</Source>
+      <Name>Graphics\Backgrounds\Play0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Play0.xnb</Output>
+      <Time>2011-06-06T19:18:36.7705078-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Play1.png</Source>
+      <Name>Graphics\Backgrounds\Play1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Play1.xnb</Output>
+      <Time>2011-06-06T19:21:24.7626953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Play2.png</Source>
+      <Name>Graphics\Backgrounds\Play2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Play2.xnb</Output>
+      <Time>2011-06-06T19:07:47.7480468-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Shadow.png</Source>
+      <Name>Graphics\Backgrounds\Shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Shadow.xnb</Output>
+      <Time>2011-05-30T19:19:53.0048828-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Menu.png</Source>
+      <Name>Graphics\Backgrounds\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Menu.xnb</Output>
+      <Time>2011-06-06T18:54:41.0947265-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\B_0.png</Source>
+      <Name>Graphics\Units\B_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\B_0.xnb</Output>
+      <Time>2011-06-01T22:01:36.2841797-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\B_1.png</Source>
+      <Name>Graphics\Units\B_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\B_1.xnb</Output>
+      <Time>2011-06-01T22:01:36.2998047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\B_2.png</Source>
+      <Name>Graphics\Units\B_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\B_2.xnb</Output>
+      <Time>2011-06-01T22:01:36.2998047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\B_3.png</Source>
+      <Name>Graphics\Units\B_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\B_3.xnb</Output>
+      <Time>2011-06-01T22:01:36.2998047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\E_0.png</Source>
+      <Name>Graphics\Units\E_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\E_0.xnb</Output>
+      <Time>2011-06-01T22:01:36.3154297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\E_1.png</Source>
+      <Name>Graphics\Units\E_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\E_1.xnb</Output>
+      <Time>2011-06-01T22:01:36.3154297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\E_2.png</Source>
+      <Name>Graphics\Units\E_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\E_2.xnb</Output>
+      <Time>2011-06-01T22:01:36.3154297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\E_3.png</Source>
+      <Name>Graphics\Units\E_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\E_3.xnb</Output>
+      <Time>2011-06-01T22:01:36.3154297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\P_0.png</Source>
+      <Name>Graphics\Units\P_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\P_0.xnb</Output>
+      <Time>2011-06-06T22:12:30.7988281-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\P_1.png</Source>
+      <Name>Graphics\Units\P_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\P_1.xnb</Output>
+      <Time>2011-06-06T22:12:30.8007812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\P_2.png</Source>
+      <Name>Graphics\Units\P_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\P_2.xnb</Output>
+      <Time>2011-06-06T22:12:30.9169921-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\P_3.png</Source>
+      <Name>Graphics\Units\P_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\P_3.xnb</Output>
+      <Time>2011-06-06T22:12:30.9189453-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\Player.png</Source>
+      <Name>Graphics\Units\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\Player.xnb</Output>
+      <Time>2011-06-06T23:37:11.5791015-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Start.jpg</Source>
+      <Name>Graphics\Backgrounds\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Start.xnb</Output>
+      <Time>2011-06-06T18:14:17.4287109-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\Explosion.png</Source>
+      <Name>Graphics\Units\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\Explosion.xnb</Output>
+      <Time>2011-06-01T23:04:15.4853515-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Units\ChocolateBall.png</Source>
+      <Name>Graphics\Units\ChocolateBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Units\ChocolateBall.xnb</Output>
+      <Time>2011-06-02T22:12:40.9033203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\GameOver.png</Source>
+      <Name>Graphics\Backgrounds\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\GameOver.xnb</Output>
+      <Time>2011-06-06T22:48:31.4277343-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Pause.png</Source>
+      <Name>Graphics\Backgrounds\Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Pause.xnb</Output>
+      <Time>2011-06-06T22:48:54.7148437-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Backgrounds\Instructions.png</Source>
+      <Name>Graphics\Backgrounds\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Graphics\Backgrounds\Instructions.xnb</Output>
+      <Time>2011-06-07T00:18:27.6767578-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Stephen\Documents\My Dropbox\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-09T18:13:32.8417968-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
